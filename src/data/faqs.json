@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "question": "What documents do I need to rent a bike or car?",
+    "answer": "You need a valid driving license, government-issued ID proof (Aadhaar/PAN/Passport), and address proof. For bikes above 350cc and all cars, a 2-year minimum driving experience is required.",
+    "category": "Documents"
+  },
+  {
+    "id": "2",
+    "question": "What is the minimum age requirement for renting?",
+    "answer": "The minimum age is 18 years for scooters and bikes up to 150cc, and 21 years for bikes above 150cc and all cars.",
+    "category": "Eligibility"
+  },
+  {
+    "id": "3",
+    "question": "Is there a security deposit?",
+    "answer": "Yes, we collect a refundable security deposit which varies based on the vehicle type. Bikes: ₹2,000-5,000, Cars: ₹5,000-10,000. It's refunded within 7 days after vehicle return.",
+    "category": "Payment"
+  },
+  {
+    "id": "4",
+    "question": "What happens if I return the vehicle late?",
+    "answer": "Late returns are charged at hourly rates. If delayed by more than 3 hours, a full day's rental is charged. Please inform us in advance if you need an extension.",
+    "category": "Rental Terms"
+  },
+  {
+    "id": "5",
+    "question": "Is fuel included in the rental price?",
+    "answer": "No, fuel is not included. Vehicles are provided with a certain fuel level, and you're expected to return them with the same level. Any deficit will be charged.",
+    "category": "Fuel"
+  },
+  {
+    "id": "6",
+    "question": "What is your cancellation policy?",
+    "answer": "Free cancellation up to 24 hours before pickup time. Cancellations within 24 hours incur a 50% charge. No refund for cancellations within 6 hours of pickup.",
+    "category": "Cancellation"
+  },
+  {
+    "id": "7",
+    "question": "Are helmets provided with bike rentals?",
+    "answer": "Yes, we provide 2 ISI-marked helmets free with every bike rental. Additional helmets are available on request.",
+    "category": "Safety"
+  },
+  {
+    "id": "8",
+    "question": "Can I extend my rental period?",
+    "answer": "Yes, you can extend your rental subject to availability. Contact us at least 6 hours before your return time to extend. Extension rates apply.",
+    "category": "Rental Terms"
+  },
+  {
+    "id": "9",
+    "question": "What if the vehicle breaks down?",
+    "answer": "We provide 24/7 roadside assistance. Call our helpline immediately. If the issue is mechanical, we'll arrange a replacement or repair at no extra cost.",
+    "category": "Support"
+  },
+  {
+    "id": "10",
+    "question": "Do you offer home delivery and pickup?",
+    "answer": "Yes, we offer free delivery and pickup within 5 km of our location. For distances beyond that, nominal charges apply based on the distance.",
+    "category": "Delivery"
+  },
+  {
+    "id": "11",
+    "question": "Is insurance included?",
+    "answer": "Basic insurance is included in the rental price. However, you're responsible for the first ₹5,000 of any damage claim. Full damage waiver is available for an additional fee.",
+    "category": "Insurance"
+  },
+  {
+    "id": "12",
+    "question": "Can I take the vehicle outside the city?",
+    "answer": "Yes, intercity travel is allowed. Please inform us during booking. Additional kilometer charges may apply beyond the included daily limit (typically 250-300 km/day).",
+    "category": "Travel"
+  }
+]

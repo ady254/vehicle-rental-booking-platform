@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Rahul Sharma",
+    "rating": 5,
+    "comment": "Amazing experience! The bike was in perfect condition and the booking process was seamless. Will definitely rent again.",
+    "date": "2024-11-15",
+    "bike": "KTM Duke 390"
+  },
+  {
+    "id": "2",
+    "name": "Priya Patel",
+    "rating": 5,
+    "comment": "Rented the Hyundai i20 for a weekend trip. The car was clean, well-maintained, and the staff was very helpful.",
+    "date": "2024-11-10",
+    "bike": "Hyundai i20"
+  },
+  {
+    "id": "3",
+    "name": "Amit Kumar",
+    "rating": 4,
+    "comment": "Great service and affordable pricing. The Royal Enfield was exactly what I needed for my Ladakh trip.",
+    "date": "2024-11-05",
+    "bike": "Royal Enfield Classic 350"
+  },
+  {
+    "id": "4",
+    "name": "Sneha Reddy",
+    "rating": 5,
+    "comment": "Best rental service in town! Professional team, quick delivery, and transparent pricing. Highly recommended!",
+    "date": "2024-10-28",
+    "bike": "Honda Activa 6G"
+  },
+  {
+    "id": "5",
+    "name": "Vikram Singh",
+    "rating": 5,
+    "comment": "Took the Mahindra Thar for an off-road adventure. Absolutely thrilling experience! The vehicle was in top condition.",
+    "date": "2024-10-20",
+    "bike": "Mahindra Thar"
+  },
+  {
+    "id": "6",
+    "name": "Ananya Desai",
+    "rating": 4,
+    "comment": "Smooth booking process and excellent customer support. The bike was delivered on time and picked up hassle-free.",
+    "date": "2024-10-15",
+    "bike": "Yamaha R15 V4"
+  }
+]

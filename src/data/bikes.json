@@ -1,0 +1,214 @@
+[
+  {
+    "id": "1",
+    "name": "Royal Enfield Classic 350",
+    "brand": "Royal Enfield",
+    "type": "bike",
+    "category": "Cruiser",
+    "image": "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1327038/pexels-photo-1327038.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1327043/pexels-photo-1327043.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 150,
+    "pricePerDay": 1200,
+    "specifications": {
+      "engine": "349cc",
+      "power": "20.2 HP",
+      "topSpeed": "110 km/h",
+      "fuel": "Petrol",
+      "seating": 2,
+      "transmission": "5-Speed"
+    },
+    "available": true,
+    "rating": 4.5,
+    "reviews": 128,
+    "description": "The iconic Royal Enfield Classic 350 combines vintage aesthetics with modern engineering. Perfect for city rides and highway cruising."
+  },
+  {
+    "id": "2",
+    "name": "KTM Duke 390",
+    "brand": "KTM",
+    "type": "bike",
+    "category": "Sport",
+    "image": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2519370/pexels-photo-2519370.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2822434/pexels-photo-2822434.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 200,
+    "pricePerDay": 1600,
+    "specifications": {
+      "engine": "373cc",
+      "power": "43 HP",
+      "topSpeed": "167 km/h",
+      "fuel": "Petrol",
+      "seating": 2,
+      "transmission": "6-Speed"
+    },
+    "available": true,
+    "rating": 4.8,
+    "reviews": 256,
+    "description": "The KTM Duke 390 is a naked street fighter that delivers raw performance and aggressive styling. Ideal for thrill-seekers."
+  },
+  {
+    "id": "3",
+    "name": "Honda Activa 6G",
+    "brand": "Honda",
+    "type": "bike",
+    "category": "Scooter",
+    "image": "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1327038/pexels-photo-1327038.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 80,
+    "pricePerDay": 600,
+    "specifications": {
+      "engine": "109.51cc",
+      "power": "7.68 HP",
+      "topSpeed": "83 km/h",
+      "fuel": "Petrol",
+      "seating": 2,
+      "transmission": "CVT"
+    },
+    "available": true,
+    "rating": 4.3,
+    "reviews": 432,
+    "description": "India's most trusted scooter. Perfect for daily commutes with excellent fuel efficiency and comfortable riding experience."
+  },
+  {
+    "id": "4",
+    "name": "Yamaha R15 V4",
+    "brand": "Yamaha",
+    "type": "bike",
+    "category": "Sport",
+    "image": "https://images.pexels.com/photos/2519370/pexels-photo-2519370.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/2519370/pexels-photo-2519370.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2822434/pexels-photo-2822434.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2116475/pexels-photo-2116475.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 180,
+    "pricePerDay": 1400,
+    "specifications": {
+      "engine": "155cc",
+      "power": "18.4 HP",
+      "topSpeed": "136 km/h",
+      "fuel": "Petrol",
+      "seating": 2,
+      "transmission": "6-Speed"
+    },
+    "available": true,
+    "rating": 4.7,
+    "reviews": 189,
+    "description": "The Yamaha R15 V4 is a track-inspired sportbike with racing DNA. Features advanced aerodynamics and quick shifter technology."
+  },
+  {
+    "id": "5",
+    "name": "Hyundai i20",
+    "brand": "Hyundai",
+    "type": "car",
+    "category": "Hatchback",
+    "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 250,
+    "pricePerDay": 2000,
+    "specifications": {
+      "engine": "1197cc",
+      "power": "83 HP",
+      "topSpeed": "180 km/h",
+      "fuel": "Petrol",
+      "seating": 5,
+      "transmission": "Manual/Automatic"
+    },
+    "available": true,
+    "rating": 4.6,
+    "reviews": 342,
+    "description": "Premium hatchback with modern features, spacious interiors, and excellent safety ratings. Perfect for family trips."
+  },
+  {
+    "id": "6",
+    "name": "Maruti Swift",
+    "brand": "Maruti Suzuki",
+    "type": "car",
+    "category": "Hatchback",
+    "image": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 200,
+    "pricePerDay": 1600,
+    "specifications": {
+      "engine": "1197cc",
+      "power": "89 HP",
+      "topSpeed": "165 km/h",
+      "fuel": "Petrol",
+      "seating": 5,
+      "transmission": "Manual/AMT"
+    },
+    "available": true,
+    "rating": 4.5,
+    "reviews": 512,
+    "description": "India's favorite hatchback known for its reliability, fuel efficiency, and peppy performance. Great for city driving."
+  },
+  {
+    "id": "7",
+    "name": "Honda City",
+    "brand": "Honda",
+    "type": "car",
+    "category": "Sedan",
+    "image": "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 300,
+    "pricePerDay": 2400,
+    "specifications": {
+      "engine": "1498cc",
+      "power": "119 HP",
+      "topSpeed": "180 km/h",
+      "fuel": "Petrol",
+      "seating": 5,
+      "transmission": "Manual/CVT"
+    },
+    "available": false,
+    "rating": 4.7,
+    "reviews": 289,
+    "description": "Premium sedan with spacious cabin, advanced features, and smooth driving dynamics. Ideal for long journeys."
+  },
+  {
+    "id": "8",
+    "name": "Mahindra Thar",
+    "brand": "Mahindra",
+    "type": "car",
+    "category": "SUV",
+    "image": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "images": [
+      "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1035108/pexels-photo-1035108.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "pricePerHour": 400,
+    "pricePerDay": 3200,
+    "specifications": {
+      "engine": "2184cc",
+      "power": "130 HP",
+      "topSpeed": "155 km/h",
+      "fuel": "Diesel",
+      "seating": 4,
+      "transmission": "Manual/Automatic"
+    },
+    "available": true,
+    "rating": 4.9,
+    "reviews": 176,
+    "description": "The ultimate off-road beast. Perfect for adventure enthusiasts looking for thrilling mountain and beach drives."
+  }
+]
