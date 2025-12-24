@@ -34,21 +34,21 @@ and is designed to be backend-ready for real-world integration.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshot/home.png)
 
 ### Class Booking
-![Booking Page](./screenshots/booking.png)
+![Booking Page](./screenshot/booking.png)
 
 ### Checkout
-![Checkout Page](./screenshots/checkout.png)
+![Checkout Page](./screenshot/checkout.png)
 
 ### Payment Success
-![Success Page](./screenshots/success.png)
+![Success Page](./screenshot/success.png)
 
 
 ## 🌐 Live Demo
-🔗 https://your-live-link.vercel.app  
-*(Replace with your deployed URL)*
+🔗 https://vehicle-rental-booking-platform.vercel.app/
+
 
 ---
 
